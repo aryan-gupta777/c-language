@@ -3,7 +3,7 @@ int main()
 {
     int a;
     printf("enter side of square ");
-    scanf("%d", &a);//hello
+    scanf("%d", &a);
     printf("area of square is %d", a*a);
     return 0;
 }
