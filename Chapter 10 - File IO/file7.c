@@ -1,5 +1,5 @@
 #include<stdio.h>
-
+//EOF==null
 int main(){
     FILE *fptr;
     fptr = fopen("text7.txt","r");
